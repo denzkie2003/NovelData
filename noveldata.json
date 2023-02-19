@@ -1,10 +1,7 @@
-
-
-  [
+[
   
-    //Store data
     {
-		"title":"Tonari no Seki no Moto Idol wa, Ore no Produce ga nai to Ikite Ikenai",
+        "title":"Tonari no Seki no Moto Idol wa, Ore no Produce ga nai to Ikite Ikenai",
     	"cover":"https://cdn.novelupdates.com/images/2023/01/Tonari-no-Seki-no-Moto-Idol-wa-Ore-no-Produce-ga-nai-to-Ikite-Ikenai.jpg",
     	"volume":"Volume 1"
     },
@@ -12,7 +9,7 @@
 	   "title":"Starting a Saving Life With Your Neighbour. Would You Spend Time in the Same Room for Electricity",
 	   "cover":"https://cdn.novelupdates.com/images/2021/07/Starting-a-Saving-Life-with-Your-Neighbour-Would-you-spend-time-in-the-same-room-for-electricity.jpeg",
 	   "volume":"Volume 1"
-	}
+    }
   
   
-  ]
+]

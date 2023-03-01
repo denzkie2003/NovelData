@@ -1,5 +1,21 @@
 [
 {
+"title":"Sword Art Online",
+"cover":"https://yenpress-us.imgix.net/covers/9781975343408.jpg?auto=format&w=300&dpr=2&q=100",
+"volume":"Volume 1-25",
+"type":"Light Novel",
+"genre":"Adventure, Sci-Fi, Action",
+"fileType":"Epub",
+"tlType":"Official",
+"status":"Ongoing",
+"author":"Reki Kawahara",
+"alternative":"Unknown (V26 release on 03/21/2023)",
+"translation":"Yen Press",
+"nuLink":"None",
+"synopsis":"In the year 2022, gamers rejoice as Sword Art Online - a VRMMORPG (Virtual Reality Massively Multiplayer Online Role Playing Game) like no other - debuts, allowing players to take full advantage of the ultimate in gaming technology: NerveGear, a system that allows users to completely immerse themselves in a wholly realistic gaming experience. But when the game goes live, the elation of the players quickly turns to horror as they discover that, for all its amazing features, SAO is missing one of the most basic functions of any MMORPG - a log-out button. Now trapped in the virtual world of Aincrad, their bodies held captive by NerveGear in the real world, users are issued a chilling ultimatum: conquer all one hundred floors of Aincrad to regain your freedom. But in the warped world of SAO, “game over” means certain death - both virtual and real...",
+"volumeLink":"https://denzkie2003.github.io/NovelData/data/sword_art_online.json"
+},
+{
 "title":"Guide to the Perfect Otaku Girlfriend: Roomies and Romance",
 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZSIKsPTE7b8x-qKS29odxu2oB5ViMsYMmA&usqp=CAU",
 "volume":"Volume 1-5",

@@ -1,5 +1,21 @@
 [
 {
+"title":"Spy Classroom",
+"cover":"https://yenpress-us.imgix.net/covers/9781975338848.jpg?auto=format&w=300&dpr=2&q=100",
+"volume":"Volume 1-4",
+"type":"Light Novel",
+"genre":"Action, Comedy, Drama, Harem, Mystery, Psychological",
+"fileType":"Epub",
+"tlType":"Official",
+"status":"Ongoing",
+"author":"Takemachi",
+"alternative":"Spy Kyoushitsu",
+"translation":"Yen Press",
+"nuLink":"None",
+"synopsis":"INTELLIGENCE IS THE MOST DANGEROUS WEAPON\n\nFollowing a devastating military conflict, countries fight their wars in the shadows. One unusual spy, Klaus, has never failed on the job despite his quirks, and he is building a team to take on an Impossible Mission—one with over a 90 percent chance of failure. However, his chosen members are all washouts with no practical experience. They’ll have to use every trick in the book (and some that aren’t) to prove they’re up to the task!",
+"volumeLink":"https://denzkie2003.github.io/NovelData/data/spy_classroom.json"
+},
+{
 "title":"Goblin Slayer",
 "cover":"https://yenpress-us.imgix.net/covers/9781975350161.jpg?auto=format&w=300&dpr=2&q=100",
 "volume":"Volume 1-15",
